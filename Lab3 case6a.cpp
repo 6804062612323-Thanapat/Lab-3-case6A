@@ -13,7 +13,7 @@ if (score >= 68) {
 	else if (score >= 75)
 		printf("B");
 	else 
-		printf("C\n%d to ??B",68-score); //bonus 1
+		printf("C\n%d to ??B",75-score); //bonus 1
 		
 } else {
 	if (score >= 55)
@@ -29,6 +29,7 @@ else { //bonus 2
 	
 return 0;
 }
+
 
 
 
